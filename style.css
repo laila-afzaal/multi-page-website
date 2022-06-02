@@ -1,0 +1,28 @@
+.top-navbar {
+  box-sizing: border-box;
+  background-color: rgba(108, 225, 243, 0.861);
+  display: block;
+  /* color: #f2f2f2; */
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+#contact-button {
+  text-align: right;
+  color: rgb(26, 222, 229);
+}
+
+body{
+  background-color: rgba(187, 183, 237, 0.92);
+ }
+
+.column {
+  background-color: rgba(229, 216, 199, 0.884);
+}
+
+.footer {
+  background-color: #f1f1f1;
+  padding: 10px;
+  text-align: center;
+}
+   
